@@ -1,0 +1,14 @@
+h1{
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+}
+.container{
+	margin-top: 5em!important;
+}
+
+.cabecera {
+    display: block;
+    background: red;
+    width: 100vw;
+    height: 40vh;
+}

@@ -1,0 +1,5 @@
+$.ajax({
+  type: "POST",
+  url: "https://nodemailer-send.herokuapp.com/enviar",
+  data: { mensaje: "", receptor: "", asunto:"" }
+});
